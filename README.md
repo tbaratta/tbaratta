@@ -1,10 +1,4 @@
-Hello, my name is Thomas Baratta
-Major: Software Engineering
-Proficient Languages: C/C++
-Frameworks: ReactJS, Pandas
-Conact info: tommybaratta7@gmail.com
-
-
+Hello, my name is Thomas Baratta and I'm actively looking to work at an internship. I'm currently studying software engineering at Florida Gulf Coast University. I'm proficient in C/C++ and have experience working with frameworks such as ReactJS and Pandas.
 
 
 

@@ -1,5 +1,4 @@
-Hello, my name is Thomas Baratta and I'm actively looking to work at an internship. I'm currently studying software engineering at Florida Gulf Coast University. I'm proficient in C/C++ and have experience working with SQL, Python, and Pandas library from my student research position and ReactJS from personal projects.
-
+Hello, my name is Thomas Baratta. I'm currently studying software engineering at Florida Gulf Coast University and expected to graduate in May, 2026.
 
 
 

@@ -20,7 +20,7 @@ const tbaratta = {
     currentFocus: "Backend Development",
     funFact: "Our team's project was ranked within the top 20 at ShellHacks 2024",
     joke: "Why do programmers prefer dark mode?",
-    answer: "Because the light attracts bugs"
+    jokeAnswer: "Because the light attracts bugs"
 };
 ```
 

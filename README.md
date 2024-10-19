@@ -9,6 +9,7 @@ const tbaratta = {
     name: "Thomas Baratta",
     major: "Software Engineering",
     university: "Florida Gulf Coast University",
+    gradYear: "May, 2026",
     code: ["C++", "C", "JavaScript", "Python"],
     technologies: {
         backEnd: {

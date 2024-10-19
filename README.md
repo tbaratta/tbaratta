@@ -1,7 +1,5 @@
 <div style="display: flex; justify-content: space-around;">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/IMG_0982.jpeg" alt="hello_world" width="250" height="320">
-</div>
-<div style="display: flex; justify-content: space-around;">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/hello_world.jpg" alt="hello_world" width="250" height="320">
 </div>
 

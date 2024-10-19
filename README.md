@@ -14,7 +14,7 @@ const tbaratta = {
         backEnd: {
             js: ["ExpressJS"],
         },
-        databases: ["mongo", "SQL"],
+        databases: ["Mongo", "SQL"],
     },
     organizations: ["Software Engineering Club"],
     currentFocus: "Backend Development",

@@ -5,30 +5,22 @@
 
 # Hello there 👋
 ```javascript
-const jpgtzg = {
-    name: "Juan Pablo Gutiérrez"
-    pronouns: "He" | "Him",
-    role: "Full Stack Software Engineer and Robotics Engineer",
-    career: "Robotics Engineering",
-    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#", "Bash"],
-    askMeAbout: ["robotics", "tech", "app dev", "software", "music"],
+const tbaratta = {
+    name: "Thomas Baratta",
+    major: "Software Engineering",
+    university: "Florida Gulf Coast University",
+    code: ["C++", "C", "JavaScript", "Python"],
     technologies: {
         backEnd: {
-            js: ["NextJS", "Vercel",],
+            js: ["ExpressJS"],
         },
-        robotics: {
-            os: ["ros2", "microROS"]
-            libraries: ["WPILib"]
-        },
-        mobileApp: {
-            multiplatform: ["Flutter development"]
-            native: ["IOS Development"] 
-        },
-        databases: ["mongo", "SQL", "Firebase"],
+        databases: ["mongo", "SQL"],
     },
-    organizations: ["VOLTEC667", "WPILib", "Hack Club"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    organizations: ["Software Engineering Club"],
+    currentFocus: "Backend Development",
+    funFact: "Our team's project was ranked within the top 20 at ShellHacks 2024",
+    joke: "Why do programmers prefer dark mode?",
+    answer: "Because the light attracts bugs"
 };
 ```
 

@@ -5,6 +5,7 @@
 </div>
 
 **Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
+<span style="font-size: 24px;">**Welcome to my portfolio website!**</span>
 
 
 # Hello there 👋

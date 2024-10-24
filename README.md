@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/IMG_0864.jpeg" alt="hello_world" width="250" height="320">
 </div>
 
+<span style="font-size: 100px;">**Welcome to my portfolio website!**</span>
+
 **Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
 
 

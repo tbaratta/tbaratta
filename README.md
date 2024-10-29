@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/nature.jpeg" alt="hello_world" width="250" height="320">
+  <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/nature.jpg" alt="hello_world" width="250" height="320">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/IMG_2110.jpeg" alt="hello_world" width="250" height="320">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/IMG_0864.jpeg" alt="hello_world" width="250" height="320">
 </div>

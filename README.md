@@ -14,13 +14,9 @@ const tbaratta = {
     gradYear: "May 2026",
     code: ["C++", "C", "JavaScript", "Python"],
     technologies: {
-        backEnd: {
-            js: ["ExpressJS, NodeJS"],
-        },
-        frontEnd: {
-            js: ["ReactJS"]
-        },
-        databases: ["Mongo", "PostgreSQL"],
+        backEnd: ["ExpressJS", "NodeJS"],
+        frontEnd: ["ReactJS"],
+        databases: ["Mongo", "PostgreSQL"]
     },
     organizations: ["Software Engineering Club"],
     currentFocus: "Web Development",

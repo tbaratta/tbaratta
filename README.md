@@ -15,7 +15,10 @@ const tbaratta = {
     code: ["C++", "C", "JavaScript", "Python"],
     technologies: {
         backEnd: {
-            js: ["ExpressJS"],
+            js: ["ExpressJS, NodeJS"],
+        },
+        frontEnd: {
+            js: ["ReactJS"]
         },
         databases: ["Mongo", "PostgreSQL"],
     },

@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
 
-<a href="https://tbaratta.github.io/personal-website/" style="font-size: 48px; font-weight: bold;">
+<a href="https://tbaratta.github.io/personal-website/" style="font-size: 148px; font-weight: bold;">
   Click here
 </a>
 

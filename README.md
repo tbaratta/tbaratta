@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
 
-<a href="https://tbaratta.github.io/personal-website/" style="font-size: 500px; font-weight: bold;">
+<a href="https://tbaratta.github.io/personal-website/" style="font-size: 100px; font-weight: bold;">
   Click here
 </a>
 
@@ -34,7 +34,7 @@ const tbaratta = {
 
 <style>
   .large-link {
-    font-size: 24px; /* Adjust size as needed */
+    font-size: 100px; /* Adjust size as needed */
     font-weight: bold; /* Make it stand out */
     text-decoration: none; /* Optional: remove underline */
     color: #007BFF; /* Optional: customize color */

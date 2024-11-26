@@ -2,15 +2,9 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
   <!-- Portfolio Image -->
-  <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/portfolio.png" alt="Portfolio" width="320" height="320">
+  <a href="https://tbaratta.github.io/personal-website/">
+    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/helloworld.png" alt="Portfolio" width="320" height="320">
   </a>
-
-  <!-- Click Here Image -->
-  <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/moving-click.gif" alt="Click Here" width="auto" height="320">
-  </a>
-</div>
 
 # Hello there 👋
 ```javascript

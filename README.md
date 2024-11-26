@@ -4,9 +4,9 @@
 
 **Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
 
-
 # Hello there 👋
-javascript
+
+```javascript
 const tbaratta = {
     name: "Thomas Baratta",
     major: "Software Engineering",

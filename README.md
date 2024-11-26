@@ -8,6 +8,8 @@
 
 
 
+
+
 # Hello there 👋
 ```javascript
 const tbaratta = {
@@ -30,4 +32,20 @@ const tbaratta = {
 ```
 
 
+<style>
+  .large-link {
+    font-size: 24px; /* Adjust size as needed */
+    font-weight: bold; /* Make it stand out */
+    text-decoration: none; /* Optional: remove underline */
+    color: #007BFF; /* Optional: customize color */
+  }
+
+  .large-link:hover {
+    text-decoration: underline; /* Optional: add underline on hover */
+  }
+</style>
+
+<a href="https://tbaratta.github.io/personal-website/" class="large-link">
+  Click here
+</a>
 

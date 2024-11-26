@@ -1,10 +1,4 @@
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
-</div>
-
-<a href="https://tbaratta.github.io/personal-website/" style="font-size: 10px; font-weight: bold;">
-  Click here
-</a>
 
 <div style="display: flex; justify-content: space-around;">
   <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">

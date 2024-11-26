@@ -12,10 +12,6 @@
   </a>
 </div>
 
-
-
-
-
 # Hello there 👋
 ```javascript
 const tbaratta = {

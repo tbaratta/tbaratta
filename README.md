@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
   <!-- Portfolio Image -->
   <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/portfolio.png" alt="Portfolio" width="auto" height="320">
+    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/portfolio.png" alt="Portfolio" width="200" height="320">
   </a>
 
   <!-- Click Here Image -->

@@ -6,6 +6,12 @@
   </a>
 </div>
 
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/moving-click.gif" alt="hello_world" width="auto" height="320">
+  </a>
+</div>
+
 
 
 

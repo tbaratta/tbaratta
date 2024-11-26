@@ -1,11 +1,11 @@
 <div style="display: flex; justify-content: space-around;">
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
-**Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
 
   <a href="https://tbaratta.github.io/personal-website/">
     <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="Portfolio" width="auto" height="320">
   </a>
+  **Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
 
 # Hello there 👋
 ```javascript

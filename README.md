@@ -6,6 +6,11 @@
   Click here
 </a>
 
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
+  </a>
+</div>
 
 
 

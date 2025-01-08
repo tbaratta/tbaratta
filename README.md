@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
 
-**Click [here](https://tbaratta.github.io/personal-website/) to view my portfolio website!**
+# Check Out My Portfolio Website -> [Click Here](https://tbaratta.github.io/personal-website/) 
 
 # Hello there 👋
 

@@ -19,7 +19,7 @@ const tbaratta = {
         databases: ["Mongo", "PostgreSQL"]
     },
     organizations: ["Software Engineering Club"],
-    currentFocus: "Web Development",
+    currentFocus: "Full-Stack Web Development",
     funFact: "Our team's project was ranked within the top 20 at ShellHacks 2024",
     joke: "Why do programmers prefer dark mode?",
     jokeAnswer: "Because the light attracts bugs"

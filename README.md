@@ -3,7 +3,7 @@
 </div>
 
 
-<a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">Click Here</a>
+# Personal Portfolio Website -> <a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">Click Here</a>
 
 # Hello there 👋
 

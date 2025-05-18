@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
 
+<a href="https://tbaratta.github.io/personal-website/" target="_blank" rel="noopener noreferrer">Click Here</a>
+
 # Check Out My Portfolio Website -> [Click Here](https://tbaratta.github.io/personal-website/) 
 
 # Hello there 👋
